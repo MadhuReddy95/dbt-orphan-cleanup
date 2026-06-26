@@ -1,4 +1,5 @@
 # dbt Orphan cleanup
+<img width="2760" height="1560" alt="dbt_orphan_cleanup_thumbnail" src="https://github.com/user-attachments/assets/5e49e285-3799-498f-bf98-9da436f57124" />
 
 Find **orphaned** warehouse tables/views on Databricks: objects left behind when a dbt model is
 renamed, removed, or relocated to another schema. The tool diffs the dbt manifest against what
